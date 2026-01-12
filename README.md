@@ -1,5 +1,5 @@
 ﻿# PalUI
-![PalUI](content/keep.png)
+![PalUI](content/demo.mp4)
 
 PalUI is a chat interface for Pocketive P1 and ESP32-2432S028 (CYD) devices, which aims to be an agentic launcher for microcontrollers.
 
