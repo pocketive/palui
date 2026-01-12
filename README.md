@@ -8,7 +8,7 @@ PalUI is a chat interface for Pocketive P1 and ESP32-2432S028 (CYD) devices, whi
 -   [Features](#features)
 -   [Contents](#contents)
 -   [Quickstart](#quickstart)
--   [Upload / Flash](#upload-/-flash)
+-   [Upload / Flash](#upload--flash)
 -   [Compile yourself](#compile-yourself)
 -   [Future Plans](#future-plans)
 -   [Contact](#contact)
